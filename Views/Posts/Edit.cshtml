@@ -1,0 +1,85 @@
+﻿@model Facbook.Models.Posts
+
+
+<div class="modal" id="modalSubscriptionFormw" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header text-center">
+                <h4 class="modal-title w-100 font-weight-bold">Subscribe</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body mx-3">
+
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+                    <div class="row">
+                        <div class="col-md-4">
+                            <form asp-action="Edit">
+                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                <input type="hidden" asp-for="PostsId" />
+                                <div class="form-group">
+                                    <label asp-for="PostBody" class="control-label"></label>
+                                    <input asp-for="PostBody" class="form-control" />
+                                    <span asp-validation-for="PostBody" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="PostDate" class="control-label"></label>
+                                    <input asp-for="PostDate" class="form-control" />
+                                    <span asp-validation-for="PostDate" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="IsDeleted" class="control-label"></label>
+                                    <input asp-for="IsDeleted" class="form-control" />
+                                    <span asp-validation-for="IsDeleted" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="HasAttachment" class="control-label"></label>
+                                    <input asp-for="HasAttachment" class="form-control" />
+                                    <span asp-validation-for="HasAttachment" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="UserId" class="control-label"></label>
+                                    <input asp-for="UserId" class="form-control" />
+                                    <span asp-validation-for="UserId" class="text-danger"></span>
+                                </div>
+
+                                <div class="form-group">
+                                    @foreach (var photo in Model.Attachment)
+                                    {
+                                        <img src="~/Images/@photo.Url" style="width:20px; height:20px; " alt="Not Found" />
+
+                                    }
+                                </div>
+                                <div class="form-group">
+                                    <input type="submit" value="Save" class="btn btn-primary" />
+                                </div>
+
+                            </form>
+                        </div>
+                    </div>
+                }
+
+
+
+
+
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>

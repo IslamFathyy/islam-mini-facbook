@@ -1,0 +1,117 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<Users> SignInManager
+@inject UserManager<Users> UserManager
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewData["Title"] - Facbook</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/all.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link href="~/lib/datatables/css/jquery.dataTables.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Baloo+Thambi+2&display=swap" rel="stylesheet">
+    <style>
+
+        .loggedout_menubar_container {
+            /*background-color: #3B5998;*/
+            background-image: linear-gradient(to left,#2980b9,#021B79);
+            padding: 1%;
+            width: 100%;
+            color: white;
+            height: 10vh;
+        }
+
+
+        body {
+            background-color: #F5F5F5;
+        }
+    </style>
+</head>
+
+<body>
+    @*<header>
+            <div class="loggedout_menubar_container navbar navbar-expand-sm navbar-toggleable-sm  box-shadow">
+                <div class="container">
+                    <h4 title="go to facebook home">
+                        @if (User.IsInRole("Admin"))
+                        {<a href="~/admin/home" style="text-decoration:none;color:white;"><b>facebook</b></a>}
+                        else if (User.IsInRole("user"))
+                        {<a href="~/home/index" style="text-decoration:none;color:white;"><b>facebook</b></a> }
+                        else
+                        {<a href="~/home/index" style="text-decoration:none;color:white;"><b>facebook</b></a>}
+                    </h4>
+
+                    <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                        <partial name="_LoginPartial" />
+                       <partial name="_dashboard" />
+                    </div>
+                </div>
+
+            </div>
+        </header>*@
+    <div class="loggedout_menubar_container navbar navbar-expand-sm navbar-toggleable-sm box-shadow ">
+        <div class="container">
+            <h4 title="go to facebook home">
+                @if (User.IsInRole("Admin"))
+                {<a href="~/admin/home" style="text-decoration:none;color:white;"><b>facebook</b></a>}
+                else if (User.IsInRole("user"))
+                {<a href="~/home/index" style="text-decoration:none;color:white;"><b>facebook</b></a> }
+                else
+                {<a href="~/home/index" style="text-decoration:none;color:white;"><b>facebook</b></a>}
+            </h4>
+            <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                @if (SignInManager.IsSignedIn(User))
+                {
+                    <partial name="AfterLogin" />
+                }
+            </div>
+            <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                <partial name="_LoginPartial" />
+                <partial name="_dashboard" />
+            </div>
+        </div>
+
+    </div>
+
+    <div>
+        <main role="main" class="">
+
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="footer mt-0 text-muted box-shadow ">
+        <div class="container">
+            &copy; 2020 - Facbook - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/lib/datatables/js/jquery.dataTables.js"></script>
+    @RenderSection("Scripts", required: false)
+
+
+
+</body>
+</html>
+@*<style>
+
+    .loggedout_menubar_container {
+        background-color: #3B5998;
+        height: 82px;
+        width: 100%;
+        color: white;
+    }
+</style>*@

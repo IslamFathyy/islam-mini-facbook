@@ -1,0 +1,72 @@
+﻿
+@model Facbook.Models.Posts
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_MyDefaultlayout.cshtml";
+}
+
+<h1>create hi</h1>
+
+<h4>Posts</h4>
+<hr />
+
+    <div class="wrapper">
+        <div class="box">
+            <div class="row">
+                <div class="col-3"></div>
+                <div class="col-6">
+                    <div class="form-group" style="padding:14px">
+                        <textarea class="form-control" placeholder="What's on your mind?"></textarea>
+                    </div>
+                    <button class="btn pull-right" type="button">Post</button>
+                    <ul class="list-inline">
+                        <li>
+                            <a href=""><i class="glyphicon glyphicon-upload"></i></a>
+                        </li>
+                        <li><a href=""><i class="glyphicon glyphicon-camera"></i></a></li>
+                        <li><a href=""><i class="glyphicon glyphicon-map-marker"></i></a></li>
+                    </ul>
+                </div>
+                <div class="col-3"></div>
+            </div>
+        </div>
+    </div>
+    @*<div class="col-md-4">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="PostBody" class="control-label"></label>
+                    <input asp-for="PostBody" class="form-control" />
+                    <span asp-validation-for="PostBody" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="PostDate" class="control-label"></label>
+                    <input asp-for="PostDate" class="form-control" />
+                    <span asp-validation-for="PostDate" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="IsDeleted" class="control-label"></label>
+                    <input asp-for="IsDeleted" class="form-control" />
+                    <span asp-validation-for="IsDeleted" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="HasAttachment" class="control-label"></label>
+                    <input asp-for="HasAttachment" class="form-control" />
+                    <span asp-validation-for="HasAttachment" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="UserId" class="control-label"></label>
+                    <input asp-for="UserId" class="form-control" />
+                    <span asp-validation-for="UserId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>*@
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

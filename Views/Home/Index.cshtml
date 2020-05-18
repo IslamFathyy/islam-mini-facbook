@@ -1,0 +1,63 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<Users> SignInManager
+@inject UserManager<Users> UserManager
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<link href="https://fonts.googleapis.com/css?family=Baloo+Thambi+2&display=swap" rel="stylesheet">
+
+<style>
+    .myheader {
+        height: 82vh;
+        width: 100%;
+        background-image: linear-gradient(to left,#2980b9,#021B79);
+    }
+
+        .myheader div div {
+            padding-left: 5%;
+            padding-top: 8%
+        }
+
+    .intro {
+        color: white;
+        font-family: 'Baloo Thambi 2', cursive;
+    }
+
+        .intro h4 {
+            letter-spacing: 3px
+        }
+
+        .intro h1 {
+            font-size: 50px;
+        }
+
+    img {
+        width: 70%;
+        height: auto;
+    }
+
+    footer {
+        color: black;
+        font-weight: 600;
+    }
+
+    body {
+        overflow: hidden
+    }
+</style>
+
+
+<div class="myheader">
+        <div class="row mr-0">
+            <div class="intro col-6">
+                <h1>Welcome To Facbook</h1>
+                <h4>Connect with All Your Friends. Connect Easily.</h4>
+            </div>
+            <div class="col-6">
+                <img src="~/images/undraw_connection_b38q.svg" />
+            </div>
+        </div>
+
+
+    </div>

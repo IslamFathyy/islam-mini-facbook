@@ -1,0 +1,946 @@
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\staticwebassets\Facbook.StaticWebAssets.Manifest.cache
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\staticwebassets\Facbook.StaticWebAssets.xml
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.RazorAssemblyInfo.cache
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.RazorAssemblyInfo.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.AssemblyInfoInputs.cache
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.AssemblyInfo.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.TagHelpers.input.cache
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.TagHelpers.output.cache
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.RazorCoreGenerate.cache
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.pdb
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.StaticWebAssets.xml
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.exe
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.deps.json
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.runtimeconfig.json
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.runtimeconfig.dev.json
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.pdb
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.Views.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.Views.pdb
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateRole.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AfterLogin.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MyDefaultlayout.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.RazorTargetAssemblyInfo.cache
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.RazorTargetAssemblyInfo.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.Views.pdb
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.csproj.CopyComplete
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ListRoles.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditRole.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditUserInRole.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\searche.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\timeline.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Create.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Delete.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Details.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Edit.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Index.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Attachments\Create.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Attachments\Delete.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Attachments\Details.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Attachments\Edit.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Attachments\Index.cshtml.g.cs
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Eman\Desktop\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.csprojAssemblyReference.cache
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\appsettings.json
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.StaticWebAssets.xml
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.exe
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.deps.json
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.runtimeconfig.json
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.runtimeconfig.dev.json
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.pdb
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.Views.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.Views.pdb
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\ITI\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.csprojAssemblyReference.cache
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\staticwebassets\Facbook.StaticWebAssets.Manifest.cache
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\staticwebassets\Facbook.StaticWebAssets.xml
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.RazorAssemblyInfo.cache
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.RazorAssemblyInfo.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.AssemblyInfoInputs.cache
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.AssemblyInfo.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.TagHelpers.input.cache
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.TagHelpers.output.cache
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.RazorCoreGenerate.cache
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateRole.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditRole.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditUserInRole.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ListRoles.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Attachments\Create.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Attachments\Delete.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Attachments\Details.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Attachments\Edit.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Attachments\Index.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Create.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Delete.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Details.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Edit.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Index.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AfterLogin.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\searche.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MyDefaultlayout.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.RazorTargetAssemblyInfo.cache
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.RazorTargetAssemblyInfo.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.Views.pdb
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.csproj.CopyComplete
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.dll
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.pdb
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CreatePostPartial.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_EditPostPartial.cshtml.g.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.MvcApplicationPartsAssemblyInfo.cs
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.MvcApplicationPartsAssemblyInfo.cache
+C:\ITI\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DeletePostPartial.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.StaticWebAssets.xml
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.exe
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.deps.json
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.runtimeconfig.json
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.pdb
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.Views.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.Views.pdb
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\staticwebassets\Facbook.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\staticwebassets\Facbook.StaticWebAssets.xml
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.RazorAssemblyInfo.cache
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.RazorAssemblyInfo.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.TagHelpers.input.cache
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.TagHelpers.output.cache
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.RazorCoreGenerate.cache
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateRole.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditRole.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditUserInRole.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ListRoles.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Attachments\Create.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Attachments\Delete.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Attachments\Details.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Attachments\Edit.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Attachments\Index.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Create.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Delete.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Details.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Edit.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Index.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Index.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AfterLogin.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\searche.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CreatePostPartial.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_dashboard.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DeletePostPartial.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_EditInfoPartial.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_EditPostPartial.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MyDefaultlayout.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PostIndexPartial.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_postLikes.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.Views.pdb
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.csproj.CopyComplete
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.dll
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.pdb
+C:\Users\Admin\Downloads\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.csprojAssemblyReference.cache
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\appsettings.json
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.StaticWebAssets.xml
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.exe
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.deps.json
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.runtimeconfig.json
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.runtimeconfig.dev.json
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.pdb
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.Views.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Facbook.Views.pdb
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.csprojAssemblyReference.cache
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\staticwebassets\Facbook.StaticWebAssets.Manifest.cache
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\staticwebassets\Facbook.StaticWebAssets.xml
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.MvcApplicationPartsAssemblyInfo.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.MvcApplicationPartsAssemblyInfo.cache
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.RazorAssemblyInfo.cache
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.RazorAssemblyInfo.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.AssemblyInfoInputs.cache
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.AssemblyInfo.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.TagHelpers.input.cache
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.TagHelpers.output.cache
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.RazorCoreGenerate.cache
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateRole.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditRole.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditUserInRole.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ListRoles.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Attachments\Create.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Attachments\Delete.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Attachments\Details.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Attachments\Edit.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Attachments\Index.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Create.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Delete.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Details.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Edit.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Index.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Index.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AfterLogin.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\searche.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CreatePostPartial.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_dashboard.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DeletePostPartial.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_EditInfoPartial.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_EditPostPartial.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MyDefaultlayout.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PostIndexPartial.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_postLikes.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.RazorTargetAssemblyInfo.cache
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.RazorTargetAssemblyInfo.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.Views.pdb
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.csproj.CopyComplete
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.dll
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Facbook.pdb
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetUsers.cshtml.g.cs
+D:\iti\C# Summary\final facbook\Facbook\Facbook\obj\Debug\netcoreapp3.1\Razor\Views\Admin\index.cshtml.g.cs

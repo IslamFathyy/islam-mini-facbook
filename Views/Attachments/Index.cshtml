@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Facbook.Models.Attachment>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_MyDefaultlayout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Url)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsDeleted)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Comment)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Post)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Url)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsDeleted)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Comment.CommentsID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Post.PostsId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.AttachmentId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.AttachmentId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.AttachmentId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

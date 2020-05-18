@@ -1,0 +1,54 @@
+﻿@model Posts
+
+
+<form asp-action="Create" asp-controller="posts" enctype="multipart/form-data">
+    <div class="wrapper">
+        <div class="box">
+            <div class="row">
+                <div class="col-3"></div>
+                <div class="col-6" style="border:solid lightblue 1px">
+                 
+                    <div class="form-group" style="padding:14px">
+                        <textarea asp-for="PostBody" placeholder="What's on yor mind ?" style="border:none" class="form-control"></textarea>
+                    </div>
+                    <div id="images"></div>
+
+                    <ul class="list-inline">
+
+                        <li class="custom-file">
+                            <input id="myfile" style="display:none;" asp-for="photos" multiple class="form-control custom-file-input" onchange="loadFile(event)">
+
+                            <label for="myfile" class="pull-right"> <i class="fa fa-image"></i></label>
+                        </li>
+
+
+                    </ul>
+                </div>
+                <div class="col-3"></div>
+            </div>
+        </div>
+    </div>
+    <input type="submit" value="Create" class="btn btn-primary btn pull-right" />
+</form>
+
+<script>
+    var loadFile = function (event) {
+        var imagediv = document.getElementById('images');
+
+        for (var i = 0; i < event.target.files.length; i++) {
+            var elem = document.createElement("img");
+            elem.setAttribute("height", "100");
+            elem.setAttribute("width", "100");
+
+            imagediv.appendChild(elem);
+
+            elem.src = URL.createObjectURL(event.target.files[i]);
+
+        }
+
+    }
+
+
+</script>
+
+

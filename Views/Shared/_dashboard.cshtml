@@ -1,0 +1,42 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<Users> SignInManager
+@inject UserManager<Users> UserManager
+
+<ul class="navbar-nav">
+    @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+    {
+
+        <li class="nav-item">
+            <a class="nav-link text-light" asp-action="Users" asp-controller="admin" title="Manage The Users">Users</a>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link text-light" asp-action="CreateRole" asp-controller="admin" title="Manage The Users">Roles</a>
+        </li>
+        <li class="nav-item">
+            <form class="form-inline" asp-area="Identity" asp-page="/Account/ResetPassword" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                <button type="submit" class="nav-link btn btn-link text-light">ResetPassword</button>
+            </form>
+        </li>
+    }
+    else if (SignInManager.IsSignedIn(User) && !User.IsInRole("Admin"))
+    {
+       
+        <li class="nav-item">
+            <a class="nav-link text-light" asp-action="Index" asp-controller="Posts" title="Manage The Users">Home</a>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link text-light" asp-action="Index" asp-controller="Profile" title="Manage The Users">Profile</a>
+        </li>
+        <li class="nav-item">
+            <form class="form-inline" asp-area="Identity" asp-page="/Account/ResetPassword" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                <button type="submit" class="nav-link btn btn-link text-light">ResetPassword</button>
+            </form>
+        </li>
+
+    }
+
+
+</ul>
+

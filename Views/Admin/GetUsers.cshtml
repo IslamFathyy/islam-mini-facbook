@@ -1,0 +1,90 @@
+﻿@*@model IEnumerable<Users>*@
+
+@model UsersView
+
+<style>
+    * {
+        text-align: center
+    }
+</style>
+
+<div class="container">
+    <div style="margin-top:3%">
+        <a class="btn btn-outline-danger" href="~/Identity/Account/Register"> Create New</a>
+
+    </div>
+
+    @if (Model.Users.Any())
+    {
+        <table class="table" id="tb">
+            <thead class="thead-dark">
+                <tr>
+
+                    <th>UserName</th>
+                    <th>Email</th>
+                    <th>Gender</th>
+                    <th>BirthDate</th>
+                    <th>Block User</th>
+                    <th>Selected Role</th>
+                    <th>Edit Role</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Users)
+                {
+                    <tr>
+                        <td>@item.UserName</td>
+                        <td>@item.Email</td>
+                        <td>@item.Gender</td>
+                        <td>@item.Birthdate</td>
+
+                        <td>
+                            <form method="post" asp-action="block" asp-route-id="@item.Id">
+                                <button class="btn btn-danger" type="submit">
+                                    @if (item.Isblocked == true)
+                                    {<span>UnBlocked</span> }
+                                    else
+                                    {<span>Block</span>}
+                                </button>
+                            </form>
+                        </td>
+                        <td>
+                            @item.SelectedRole
+                        </td>
+                        <td>
+                            <form class="row" method="post" asp-action="UserRole" asp-route-id="@item.Id">
+                                <div class="col-9">
+                                    @Html.HiddenFor(m => m.User.Id)
+                                    @Html.DropDownListFor(m => m.User.SelectedRole, new SelectList(ViewBag.roles, "Name", "Name"), "Selcet Role", new { @class = "form-control" })
+                                </div>
+
+                                <button type="submit" class="btn btn-info col-3"> Save</button>
+                            </form>
+                        </td>
+                        <td>
+                        </td>
+
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+    }
+    else
+    {
+        <h1>No users Created yet</h1>
+    }
+</div>
+
+
+@section Scripts
+    {
+    <script>
+        $(document).ready(function () {
+            $("#tb").DataTable();
+
+        });
+    </script>
+}
+

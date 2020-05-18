@@ -1,0 +1,56 @@
+﻿
+@model Users
+@using Microsoft.AspNetCore.Identity
+@inject UserManager<Users> UserManager
+@{
+    ViewData["Title"] = "index";
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+<link href="~/css/all.css" />
+<style>
+    img {
+        width: 95%;
+        height: auto;
+        margin-top: 10%;
+        margin-left: 5%;
+    }
+
+    .card-admin {
+        padding: 7%;
+        text-align: center;
+        border-bottom-right-radius: 25px;
+        border-top-right-radius: 25px;
+        -webkit-box-shadow: -4px 3px 20px -2px rgba(0,0,0,0.38);
+        -moz-box-shadow: -4px 3px 20px -2px rgba(0,0,0,0.38);
+        box-shadow: -4px 3px 20px -2px rgba(0,0,0,0.38);
+        margin: 15% 0% 0% 5%;
+        font-family: 'Baloo Thambi 2', cursive;
+    }
+
+    span {
+        color: red;
+    }
+
+    i {
+        font-size: 45px;
+        margin-bottom: 2%;
+    }
+</style>
+<div class="container">
+    <div class="row">
+        <div class="col-6 ">
+            <div class="card-admin">
+                <i class="fas fa-user-cog"></i>
+                <h2>Welcome <span>@UserManager.FindByNameAsync(UserManager.GetUserName(User)).Result.UserName</span> </h2>
+                <h5>You're Admin Of This App </h5>
+                <p>Admin role is made to manage the users of our application and manage the roles of the users or add , update , delete new roles.The admin is an important member of the application to control all actions and decisions of the business</p>
+            </div>
+        </div>
+        <div class="col-6">
+            <img src="~/images/undraw_connected_world_wuay.svg" />
+
+        </div>
+    </div>
+</div>
+
+

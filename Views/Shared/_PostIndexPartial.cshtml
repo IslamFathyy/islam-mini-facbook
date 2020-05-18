@@ -1,0 +1,272 @@
+﻿@model IEnumerable<Posts>
+@inject UserManager<Users> UserManager
+@using Microsoft.AspNetCore.Identity;
+@inject SignInManager<Users> SignInManager
+
+
+<div id="emptyDiv"></div>
+<div id="emptyDivDel"></div>
+@*css islam*@
+<style>
+    .fa {
+        font-size: 50px;
+        cursor: pointer;
+        user-select: none;
+    }
+
+        .fa:hover {
+            color: darkblue;
+        }
+
+    body {
+        background-color: #F5F5F5;
+    }
+
+    .navbar {
+        position: fixed;
+        top: 0;
+        z-index: 1;
+    }
+
+    .post {
+        text-align: center;
+        padding: 5%;
+        -webkit-box-shadow: 1px 3px 15px -4px rgba(0,0,0,0.75);
+        -moz-box-shadow: 1px 3px 15px -4px rgba(0,0,0,0.75);
+        box-shadow: 1px 3px 15px -4px rgba(0,0,0,0.75);
+        border-radius: 20px;
+        background-color: white;
+    }
+
+    textarea {
+        width: 80%;
+        resize: none;
+        height: 20vh;
+    }
+
+    .friends ul li img {
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+    }
+
+    .friends ul li p {
+        display: inline-flex
+    }
+
+    .friends ul {
+        margin-top: 10%
+    }
+
+    .friends {
+        border-left: 1px solid black;
+        position: fixed;
+        top: 10vh;
+        bottom: 0;
+        z-index: -1
+    }
+
+    .feed {
+        margin-top: 5%;
+    }
+
+    .feedpost {
+        width: 50%;
+        /*border: 1px solid black;*/
+        margin-top: 2%;
+        background-color: white;
+        padding: 2% 2% 1% 2%;
+        -webkit-box-shadow: 0px 0px 17px -7px rgba(0,0,0,0.75);
+        -moz-box-shadow: 0px 0px 17px -7px rgba(0,0,0,0.75);
+        box-shadow: 0px 0px 17px -7px rgba(0,0,0,0.75);
+    }
+
+    .feedPostReact {
+        margin-top: 3%;
+        border: 1px solid black;
+        padding-top: 1%;
+    }
+
+        .feedPostReact ul li {
+            display: inline;
+        }
+
+    .body textarea {
+        border: none;
+    }
+
+    .feedpost header {
+    }
+
+        .feedpost header img {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%
+        }
+
+        .feedpost header h6 {
+            display: inline;
+        }
+
+    .feedpost .body img {
+        max-width: 100%;
+        max-height: 100%;
+        height: auto;
+        width: 100%
+    }
+</style>
+
+<div class="feed">
+    @foreach (var item in Model.OrderByDescending(i=>i.PostDate).Where(i=>i.IsDeleted==false))
+    {            var userr = await UserManager.FindByIdAsync(item.UserId);
+        <div class="feedpost">
+    <header>
+        @{
+            string pb = null;
+
+            @if (userr.Photo == null)
+                pb = "/images/user.png";
+            else
+                pb = "/images/" + userr.Photo;}
+
+        <img src="@pb" />
+        <h5>@userr.MyUsername</h5>
+        <h6>@item.PostDate</h6>
+    </header>
+    <div class="body">
+
+        @Html.DisplayFor(modelItem => item.PostBody)
+        @if (item.HasAttachment == true)
+        {
+
+            @if (item.Attachment.Count > 2)
+            {
+                <div class="row">
+                    @foreach (var photo in item.Attachment)
+                    {<div class="col-6 mt-3">
+                            <img style="height:20vh" src="~/Images/@photo.Url" asp-append-version="true" />
+                        </div>
+                    }
+                </div>
+
+            }
+            else
+            {
+                @foreach (var photo in item.Attachment)
+                {<img src="~/Images/@photo.Url" asp-append-version="true" />}
+            }
+
+        }
+        else
+        {<img src="" asp-append-version="true" />}
+
+
+
+
+        @{
+            var currentuser = ViewBag.IsAuth;
+
+            var myuser = item.Likes.FirstOrDefault(i => i.UserId == currentuser && i.PostId == item.PostsId && i.IsDeleted == false);
+            if (myuser == null)
+            { <a asp-action="AddLike" asp-controller="Posts" asp-route-userID="@ViewBag.IsAuth" asp-route-postID="@item.PostsId">   Like </a>}
+            else
+            {
+                <a asp-action="Dislike" asp-controller="Posts" asp-route-userID="@ViewBag.IsAuth" asp-route-postID="@item.PostsId">   unLike </a>
+
+            }
+
+
+
+        }
+
+        @{
+            var user = await UserManager.GetUserAsync(User);
+            if (item.UserId.Equals(user.Id))
+            {
+                <a class="btn" onclick="editPost(@item.PostsId)">Edit</a>
+                <a class="btn" onclick="deletePost(@item.PostsId)">Delete</a>
+
+            }
+
+        }
+    </div>
+
+
+
+    <div class="feedPostReact">
+        @{ var mydiv = "mylikescount" + @item.PostsId; }
+
+        <button id=@mydiv class="btn btn-primary" onclick="getcount(@item.PostsId)"> likes</button>
+
+
+        <a class="btn btn-primary" onclick="viewModalLikes(@item.PostsId)">Listt</a>
+
+    </div>
+
+
+
+
+
+
+</div>
+
+    }
+
+
+
+
+
+</div>
+
+
+
+
+            @section Scripts{
+                @*<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>*@
+                @*<script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>*@
+
+                <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+                <script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+                <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
+                <script src="https://ajax.aspnetcdn.com/ajax/mvc/4.0/jquery.validate.unobtrusive.min.js"></script>
+
+
+                @*<script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>*@
+                <script type="text/javascript">
+                    function editPost(id) {
+                        $.ajax({
+                            type: "GET",
+                            url: "Posts/Edit/" + id,
+                            success: function (response) {
+                                $("#emptyDiv").html(response);
+                                $("#modalSubscriptionFormwe").modal("toggle");
+                            },
+                            //success: function (response) {
+                            //    alert(response)
+                            //},
+                            error: function () {
+                                alert("Error retreiving Posts");
+                            }
+                        });
+                    }
+                    function deletePost(id) {
+                        $.ajax({
+                            type: "GET",
+                            url: "Posts/Delete/" + id,
+                            success: function (response) {
+                                $("#emptyDivDel").html(response);
+                                $("#modalSubscriptionFormwd").modal("toggle");
+                            },
+                            //success: function (response) {
+                            //    alert(response)
+                            //},
+                            error: function () {
+                                alert("Error Deleting Posts");
+                            }
+                        });
+                    }
+
+                </script>
+
+            }
